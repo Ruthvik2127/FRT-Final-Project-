@@ -24,7 +24,7 @@ I have created a website for the Company called "Agrowfarm" where they sell all 
 
 # FINAL PART 
 
-<img width="960" alt="Screenshot 2022-08-04 22 10 40" src="https://user-images.githubusercontent.com/73475895/183134290-7b5b22b0-4a93-48a9-ba60-1fe0d9d0a1f3.png">
+<img width="956" alt="Screenshot 2022-08-04 22 10 40" src="https://user-images.githubusercontent.com/73475895/183135040-bfbc7156-a9a3-4082-a9f2-0c09c2f8b185.png">
 
 <img width="935" alt="Screenshot 2022-08-04 22 10 55" src="https://user-images.githubusercontent.com/73475895/183134307-2d86bba2-e649-4c5c-8216-3dbb95032c0e.png">
 
