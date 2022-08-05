@@ -10,3 +10,19 @@ I have created a website for the Company called "Agrowfarm" where they sell all 
 ### Demo video explaining of my project: [demo video](https://youtu.be/bztHaAkrc-U)
 
 # Screenshots of my Website 
+
+# FRONT PART
+
+<img width="960" alt="Screenshot 2022-08-04 22 10 12" src="https://user-images.githubusercontent.com/73475895/183129841-a9ee4873-16a0-445f-a3e8-591daf156edf.png">
+
+<img width="960" alt="Screenshot 2022-08-04 22 10 22" src="https://user-images.githubusercontent.com/73475895/183129926-5ef66a74-47d9-454a-b9f3-5cdf26357948.png">
+
+# MIDDLE PART
+
+<img width="960" alt="Screenshot 2022-08-04 22 10 37" src="https://user-images.githubusercontent.com/73475895/183129963-c220ca28-683e-4e0a-aacb-4ab36484c14f.png">
+
+# FINAL PART 
+
+<img width="960" alt="Screenshot 2022-08-04 22 10 40" src="https://user-images.githubusercontent.com/73475895/183130433-8ac7c3e5-d530-4b78-b439-035d8d86e27a.png">
+
+<img width="939" alt="Screenshot 2022-08-04 22 10 55" src="https://user-images.githubusercontent.com/73475895/183130446-1a629551-d9c3-4732-8b63-046d213b3992.png">
