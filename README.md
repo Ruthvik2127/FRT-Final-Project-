@@ -26,3 +26,9 @@ I have created a website for the Company called "Agrowfarm" where they sell all 
 <img width="960" alt="Screenshot 2022-08-04 22 10 40" src="https://user-images.githubusercontent.com/73475895/183130433-8ac7c3e5-d530-4b78-b439-035d8d86e27a.png">
 
 <img width="939" alt="Screenshot 2022-08-04 22 10 55" src="https://user-images.githubusercontent.com/73475895/183130446-1a629551-d9c3-4732-8b63-046d213b3992.png">
+
+# AZURE PORTAL SCREENSHOT
+
+<img width="956" alt="Screenshot 2022-08-05 230405" src="https://user-images.githubusercontent.com/73475895/183131143-b9d2d7fa-bdaa-436b-9bbe-b78c94433cb1.png">
+
+
