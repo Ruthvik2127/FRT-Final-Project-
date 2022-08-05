@@ -11,21 +11,23 @@ I have created a website for the Company called "Agrowfarm" where they sell all 
 
 # Screenshots of my Website 
 
+
 # FRONT PART
 
-<img width="960" alt="Screenshot 2022-08-04 22 10 12" src="https://user-images.githubusercontent.com/73475895/183129841-a9ee4873-16a0-445f-a3e8-591daf156edf.png">
+<img width="956" alt="Screenshot 2022-08-04 22 10 12" src="https://user-images.githubusercontent.com/73475895/183133931-9745bcd3-05ba-493c-bb24-b7f173d8bacc.png">
 
-<img width="960" alt="Screenshot 2022-08-04 22 10 22" src="https://user-images.githubusercontent.com/73475895/183129926-5ef66a74-47d9-454a-b9f3-5cdf26357948.png">
+<img width="956" alt="Screenshot 2022-08-04 22 10 22" src="https://user-images.githubusercontent.com/73475895/183134186-d2490f6d-4169-4f4e-a8fc-8734be8cff1c.png">
 
 # MIDDLE PART
 
-<img width="960" alt="Screenshot 2022-08-04 22 10 37" src="https://user-images.githubusercontent.com/73475895/183129963-c220ca28-683e-4e0a-aacb-4ab36484c14f.png">
+<img width="954" alt="Screenshot 2022-08-04 22 10 37" src="https://user-images.githubusercontent.com/73475895/183134124-25bacda6-0ee2-4839-b3f3-4e89ceba3bf8.png">
 
 # FINAL PART 
 
-<img width="960" alt="Screenshot 2022-08-04 22 10 40" src="https://user-images.githubusercontent.com/73475895/183130433-8ac7c3e5-d530-4b78-b439-035d8d86e27a.png">
+<img width="960" alt="Screenshot 2022-08-04 22 10 40" src="https://user-images.githubusercontent.com/73475895/183134290-7b5b22b0-4a93-48a9-ba60-1fe0d9d0a1f3.png">
 
-<img width="939" alt="Screenshot 2022-08-04 22 10 55" src="https://user-images.githubusercontent.com/73475895/183130446-1a629551-d9c3-4732-8b63-046d213b3992.png">
+<img width="935" alt="Screenshot 2022-08-04 22 10 55" src="https://user-images.githubusercontent.com/73475895/183134307-2d86bba2-e649-4c5c-8216-3dbb95032c0e.png">
+
 
 # AZURE PORTAL SCREENSHOT
 
