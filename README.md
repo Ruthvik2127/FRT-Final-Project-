@@ -14,7 +14,7 @@ I have created a website for the Company called "Agrowfarm" where they sell all 
 
 # FRONT PART
 
-<img width="956" alt="Screenshot 2022-08-04 22 10 12" src="https://user-images.githubusercontent.com/73475895/183133931-9745bcd3-05ba-493c-bb24-b7f173d8bacc.png">
+<img width="951" alt="Screenshot 2022-08-04 22 10 12" src="https://user-images.githubusercontent.com/73475895/183134657-4da3f243-86cd-40cb-8000-a0fdf91f7157.png">
 
 <img width="956" alt="Screenshot 2022-08-04 22 10 22" src="https://user-images.githubusercontent.com/73475895/183134186-d2490f6d-4169-4f4e-a8fc-8734be8cff1c.png">
 
